@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/AleeCorp/blog/master/images/acn-logo.p
 # Includes an icon in the footer for each username you enter
 footer-links:
  # dribbble:
- # email:
+  email: aleecorp.ml@gmail.com
  # facebook:
  # flickr:
   github: aleecorp/blog
